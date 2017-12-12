@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProtocoloDeEntrega"
+             xmlns:signa="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms"
+             x:Class="ProtocoloDeEntrega.MainPage">
+    <StackLayout>
+        <StackLayout>
+            <Label Text="{Binding Data,Mode=TwoWay}"/>
+            <Label Text="{Binding Horario,Mode=TwoWay}"/>
+            <Entry Placeholder="Local:" Text="{Binding Local,Mode=TwoWay}"/>
+            <Entry Placeholder="Nº Entrega:" Text="{Binding Entrega,Mode=TwoWay}"/>
+        </StackLayout>
+        <Grid x:Name="gridView" BackgroundColor="White" VerticalOptions="FillAndExpand">
+            <signa:SignaturePadView x:Name="assinatura" />
+
+        </Grid>
+
+        <Button Text="OK" Clicked="Button_ClickedAsync"/>
+    </StackLayout>
+
+</ContentPage>

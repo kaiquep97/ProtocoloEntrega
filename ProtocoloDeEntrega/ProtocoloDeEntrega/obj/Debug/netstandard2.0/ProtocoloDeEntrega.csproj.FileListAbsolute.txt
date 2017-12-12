@@ -1,0 +1,11 @@
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\bin\Debug\netstandard2.0\ProtocoloDeEntrega.deps.json
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\bin\Debug\netstandard2.0\ProtocoloDeEntrega.dll
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.App.xaml.g.cs
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.View.MainPage.xaml.g.cs
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.AssemblyInfoInputs.cache
+c:\users\user\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.AssemblyInfo.cs
+C:\Users\User\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\bin\Debug\netstandard2.0\ProtocoloDeEntrega.pdb
+C:\Users\User\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.dll
+C:\Users\User\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.pdb
+C:\Users\User\source\repos\ProtocoloDeEntrega\ProtocoloDeEntrega\ProtocoloDeEntrega\obj\Debug\netstandard2.0\ProtocoloDeEntrega.csprojResolveAssemblyReference.cache
